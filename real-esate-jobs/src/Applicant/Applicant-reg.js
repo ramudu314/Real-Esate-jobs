@@ -121,6 +121,7 @@ const Applicant = () => {
       </div>
 
       <UploadDocument />
+      <span>.</span>
       <Footer />
     </div>
   );
